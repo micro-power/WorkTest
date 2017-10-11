@@ -23,7 +23,7 @@ namespace NUnit.Tests1
         {
             int a = 5;
             a.Should().Be(4);
-            // TODO: Add your test code herere
+            // TODO: Add your test code here
             //Assert.Pass("Your first passing test");
         }
     }
